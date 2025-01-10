@@ -1,4 +1,4 @@
-# Enabling.team Trainings
+# [Enabling.team Trainings](https://enabling.team/trainings)
 
 - [Обучение по TBD](TBD.md)
 - [Обучение по Team Topologies](https://enabling.team/trainings/teamtopologies)
